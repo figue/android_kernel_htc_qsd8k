@@ -1,0 +1,6 @@
+kernel/block/blk-cgroup.ko
+kernel/block/deadline-iosched.ko
+kernel/block/cfq-iosched.ko
+kernel/block/bfq-iosched.ko
+kernel/block/sio-iosched.ko
+kernel/block/zen-iosched.ko
