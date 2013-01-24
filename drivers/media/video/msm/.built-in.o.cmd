@@ -1,1 +1,0 @@
-cmd_drivers/media/video/msm/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/media/video/msm/built-in.o drivers/media/video/msm/msm_camera.o drivers/media/video/msm/s5k3e2fx.o drivers/media/video/msm/msm_vfe8x.o drivers/media/video/msm/msm_vfe8x_proc.o drivers/media/video/msm/msm_io8x.o 

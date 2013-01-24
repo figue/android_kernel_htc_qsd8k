@@ -1,3 +1,0 @@
-kernel/drivers/tty/serial/serial_core.ko
-kernel/drivers/tty/serial/bcm_bt_lpm.ko
-kernel/drivers/tty/serial/msm_serial_hs.ko

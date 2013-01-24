@@ -1,2 +1,0 @@
-kernel/drivers/w1/wire.ko
-kernel/drivers/w1/masters/ds2482.ko

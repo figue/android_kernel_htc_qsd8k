@@ -1,1 +1,0 @@
-cmd_drivers/video/msm/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/video/msm/built-in.o drivers/video/msm/msm_fb.o drivers/video/msm/mdp.o drivers/video/msm/mdp_hw_legacy.o drivers/video/msm/mdp_ppp.o drivers/video/msm/mdp_ppp31.o drivers/video/msm/mdp_lcdc.o 
